@@ -20,4 +20,6 @@ con $gte: 0 en este caso para que filtre desde el 0 hacia arriba el cual nos ren
 #Materiales usados y materiales a instalar
 Primero que nada debemos instalar mongoDB ya que sin eso no podremos crear nuestra DB, nos daria error y jamas se iniciaria,
 luego de eso instalar mongoDBServer que es lo que nos hace tener nuestro server localhost en mongoDB.
-Material usado: #VisualStudioCode, # mongoose, # mongodb, # nodemon, # express, # node.js
+Material usado: #VisualStudioCode, mongoose, mongodb, nodemon, express, node.js
+
+
