@@ -6,9 +6,9 @@
   },
   "name": "proyecto-10-mongoose",
   "version": "1.0.0",
-  "main": "mongoose.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon mongoose.js"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
